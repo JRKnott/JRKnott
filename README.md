@@ -4,9 +4,9 @@ This Portfolio is a compilation of all of my coding projects I have worked on, i
 - **Email**: [jknott2@nd.edu](jknott2@nd.edu)
 - **LinkedIn**: [linkedin.com/in/john-knott-4b80112a6/](https://www.linkedin.com/in/john-knott-4b80112a6/)
 ## Current Projects
-    * Elements of Computing II
-     -  Currently developing a Python Portfolio with the intention of analyzing various data sets and display them through application software such as Streamlit.
-    * Compiling past projects
+   * Elements of Computing II
+      -  Currently developing a Python Portfolio with the intention of analyzing various data sets and display them through application software such as Streamlit.
+   * Compiling past projects
         
 ## Skills 
 Python, Matlab, Excel, Power Point, R

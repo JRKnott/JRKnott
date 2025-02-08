@@ -1,9 +1,13 @@
 # Data Science Portfolio - John Knott
-This Portfolio is a compilation of all of my coding, data science, and data analysis projects I have done, including school work, outside work, and passion projects. 
+This Portfolio is a compilation of all of my coding projects I have worked on, including school work, outside work, and passion projects. 
 
 - **Email**: [jknott2@nd.edu](jknott2@nd.edu)
 - **LinkedIn**: [linkedin.com/in/john-knott-4b80112a6/](https://www.linkedin.com/in/john-knott-4b80112a6/)
-
+## Current Projects
+    * Elements of Computing II
+     -  Currently developing a Python Portfolio with the intention of analyzing various data sets and display them through application software such as Streamlit.
+    * Compiling past projects
+        
 ## Skills 
 Python, Matlab, Excel, Power Point, R
 ## Experience and Knowledge
@@ -19,7 +23,11 @@ Elements of Computing I| University of Notre Dame	August - December 2024
 Engineering Computing| University of Notre Dame	January - May 2023
   - Designed and implemented as part of a team an app to display the time, geographical location, latency, and download speed by provider through 4 interactive displays, through MATLAB App designer.
   - Analyzed and visualized data and wrote programs using Python and MATLAB.
-## Interests
+## Goals 
+  - Successfuly implement AI into various coding projects.
+  - Become proficient in Python.
+  - Become more adept at front end developing by learning Java Script and becoming more skilled at using Streamlit.
 
+## Interests
   Poker, Sailing, Soccer, 90s Rock
 

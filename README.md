@@ -7,7 +7,8 @@ This Portfolio is a compilation of all of my coding projects I have worked on, i
    * Elements of Computing II
       -  Currently developing a Python Portfolio with the intention of analyzing various data sets and display them through application software such as Streamlit.
    * Compiling past projects
-        
+       
+
 ## Skills 
 Python, Matlab, Excel, Power Point, R
 ## Experience and Knowledge
@@ -19,7 +20,7 @@ Outside Work | CampusLink Project - Summer 2024
 Elements of Computing I| University of Notre Dame	August - December 2024
   - Created an exploratory data analysis on the CO2 emissions of a sample of over a thousand randomly selected vehicles.
   -  Used Python and several libraries to visualize and format complex data to help reach practical conclusions.
-
+         ![download (1)](https://github.com/user-attachments/assets/12e992f3-6f6e-4480-9dee-adc081b3810d)
 Engineering Computing| University of Notre Dame	January - May 2023
   - Designed and implemented as part of a team an app to display the time, geographical location, latency, and download speed by provider through 4 interactive displays, through MATLAB App designer.
   - Analyzed and visualized data and wrote programs using Python and MATLAB.

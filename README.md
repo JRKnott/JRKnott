@@ -3,6 +3,7 @@ This Portfolio is a compilation of all of my coding projects I have worked on, i
 
 - **Email**: [jknott2@nd.edu](jknott2@nd.edu)
 - **LinkedIn**: [linkedin.com/in/john-knott-4b80112a6/](https://www.linkedin.com/in/john-knott-4b80112a6/)
+
 I am a Finance Major at the University of Notre Dame, minoring in Computing & Digital Technologies, interested in the intersection of AI and Finance.
 ## Current Project
    * Elements of Computing II

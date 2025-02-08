@@ -21,7 +21,7 @@ Elements of Computing I| University of Notre Dame	August - December 2024
   - Created an exploratory data analysis on the CO2 emissions of a sample of over a thousand randomly selected vehicles.
   -  Used Python and several libraries to visualize and format complex data to help reach practical conclusions.
     
-         ![download (1)](https://github.com/user-attachments/assets/12e992f3-6f6e-4480-9dee-adc081b3810d)
+          ![download (1)](https://github.com/user-attachments/assets/12e992f3-6f6e-4480-9dee-adc081b3810d)
      
      
 Engineering Computing| University of Notre Dame	January - May 2023
